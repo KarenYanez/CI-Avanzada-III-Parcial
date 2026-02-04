@@ -6,7 +6,7 @@ plugins {
 
 group = 'ec.edu.espe'
 version = '0.0.1-SNAPSHOT'
-description = 'BuildTextCI'
+description = 'RoomReservationSystem'
 
 java {
     toolchain {
